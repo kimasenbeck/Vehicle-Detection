@@ -12,11 +12,11 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./output_images/vehicle.png
 [image2]: ./output_images/non_vehicle.png
-[image3]: ./output_images/hog_example5.png
+[image3]: ./output_images/hog_example5.jpg
 [image4]: ./output_images/sliding_windows.jpg
 [image5]: ./output_images/heatmap_images.jpg
 [image6]: ./output_images/multiple.jpg
-[image7]: ./output_images/single.png
+[image7]: ./output_images/single.jpg
 [video1]: ./test.mp4
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
