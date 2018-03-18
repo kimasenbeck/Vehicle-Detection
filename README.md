@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/hog_example5.png
 [image4]: ./output_images/sliding_windows.jpg
 [image5]: ./output_images/heatmap_images.jpg
-[image6]: ./output_images/multiple.png
+[image6]: ./output_images/multiple.jpg
 [image7]: ./output_images/single.png
 [video1]: ./test.mp4
 
